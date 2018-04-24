@@ -1,0 +1,10 @@
+C:\Users\erickson.lfmarinho\Logica\PrimeiroProjeto\bin\Debug\netcoreapp2.0\PrimeiroProjeto.deps.json
+C:\Users\erickson.lfmarinho\Logica\PrimeiroProjeto\bin\Debug\netcoreapp2.0\PrimeiroProjeto.runtimeconfig.json
+C:\Users\erickson.lfmarinho\Logica\PrimeiroProjeto\bin\Debug\netcoreapp2.0\PrimeiroProjeto.runtimeconfig.dev.json
+C:\Users\erickson.lfmarinho\Logica\PrimeiroProjeto\bin\Debug\netcoreapp2.0\PrimeiroProjeto.dll
+C:\Users\erickson.lfmarinho\Logica\PrimeiroProjeto\bin\Debug\netcoreapp2.0\PrimeiroProjeto.pdb
+C:\Users\erickson.lfmarinho\Logica\PrimeiroProjeto\obj\Debug\netcoreapp2.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\erickson.lfmarinho\Logica\PrimeiroProjeto\obj\Debug\netcoreapp2.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\erickson.lfmarinho\Logica\PrimeiroProjeto\obj\Debug\netcoreapp2.0\PrimeiroProjeto.AssemblyInfo.cs
+C:\Users\erickson.lfmarinho\Logica\PrimeiroProjeto\obj\Debug\netcoreapp2.0\PrimeiroProjeto.dll
+C:\Users\erickson.lfmarinho\Logica\PrimeiroProjeto\obj\Debug\netcoreapp2.0\PrimeiroProjeto.pdb

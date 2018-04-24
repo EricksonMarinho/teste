@@ -1,0 +1,4 @@
+O produto escolhido foi: wesley
+O preço a vista do produto é: 950,56
+O valor de desconto ou acréscima é: 95,056
+O preço final do produto é: 855,504
